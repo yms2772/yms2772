@@ -42,7 +42,7 @@
 	<a><img src="https://github-readme-streak-stats.herokuapp.com/?user=yms2772"></a>
 </details>
 <br/>
-<h2> My Stats <img src="https://wakatime.com/static/img/wakatime.svg" width=28px></h2>
+<h2> Popular Projects</h2>
 <a href="https://github.com/yms2772/kakao.go"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yms2772&repo=kakao.go" /> </a>
 <a href="https://github.com/yms2772/google_image_upsizer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yms2772&repo=google_image_upsizer" /> </a>
 <a href="https://github.com/yms2772/download_accelerator"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yms2772&repo=download_accelerator" /> </a>
