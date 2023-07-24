@@ -9,9 +9,6 @@
 <a><img src="https://img.shields.io/badge/AMD%20Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/NVIDIA-RTX_3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
 <br/>
-<a><img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-<a><img src="https://img.shields.io/badge/Intel%20Core_i5_3210M-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
-<br/>
 <a><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/Raspberry_PI 400-FF0000?style=for-the-badge&logo=raspberrypi&logoColor=black"></a>
 <br/>
