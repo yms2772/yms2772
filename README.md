@@ -49,3 +49,4 @@
 <a href="https://github.com/yms2772/kakao.go"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yms2772&repo=kakao.go" /> </a>
 <a href="https://github.com/yms2772/google_image_upsizer"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yms2772&repo=google_image_upsizer" /> </a>
 <a href="https://github.com/yms2772/download_accelerator"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yms2772&repo=download_accelerator" /> </a>
+<a href="https://github.com/yms2772/kunsan_univ_eclass"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=yms2772&repo=kunsan_univ_eclass" /> </a>
